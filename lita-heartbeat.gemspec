@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["ingo@ingoweiss.com"]
   spec.description   = "Adds simple 'heartbeat' endpoint"
   spec.summary       = "Adds simple 'heartbeat' endpoint for monitoring"
-  spec.homepage      = "Adds simple 'heartbeat' endpoint"
+  spec.homepage      = "https://github.com/ingoweiss/lita-heartbeat"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
